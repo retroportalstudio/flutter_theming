@@ -2,7 +2,7 @@
 Add Light/Dark mode to your Flutter Apps in a Streamlined Manner.
 
 ## Watch the Detailed Video
-[![Video Thumbnail](https://github.com/retroportalstudio/swipe_deck/blob/master/thumbnail.jpg)](https://youtu.be/6YuQEVN6j-g)
+[![Video Thumbnail](https://github.com/retroportalstudio/flutter_theming/blob/master/thumbnail.jpg)](https://youtu.be/6YuQEVN6j-g)
 
 ## Social Handles 🎯
 [Twitter](https://twitter.com/theretroportal)
